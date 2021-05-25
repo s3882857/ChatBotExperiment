@@ -1,0 +1,186 @@
+May 24, 2021 1:02:43 PM com.example.restservice.TestWebProjectApplication main
+INFO: Start In TestWebProjectApplication
+May 24, 2021 1:08:47 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = symptoms
+May 24, 2021 1:08:50 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 1 content = The symptoms of COVID-19 are similar to other colds and flus and include:
+
+ fever
+
+ sore throat
+
+ cough
+
+ tiredness
+
+ difficulty breathing.
+
+While coronavirus is of concern, it is important to remember that most people displaying these symptoms are likely suffering with a cold or other respiratory illness – not coronavirus.
+May 24, 2021 1:08:50 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 1
+May 24, 2021 1:08:50 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = The symptoms of COVID-19 are similar to other colds and flus and include:
+
+ fever
+
+ sore throat
+
+ cough
+
+ tiredness
+
+ difficulty breathing.
+
+While coronavirus is of concern, it is important to remember that most people displaying these symptoms are likely suffering with a cold or other respiratory illness – not coronavirus.
+May 24, 2021 1:08:57 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = covid
+May 24, 2021 1:08:57 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 2 content = The symptoms of COVID-19 are similar to other colds and flus and include:
+
+ fever
+
+ sore throat
+
+ cough
+
+ tiredness
+
+ difficulty breathing.
+
+While coronavirus is of concern, it is important to remember that most people displaying these symptoms are likely suffering with a cold or other respiratory illness – not coronavirus.
+May 24, 2021 1:08:57 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 2
+May 24, 2021 1:08:57 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = The symptoms of COVID-19 are similar to other colds and flus and include:
+
+ fever
+
+ sore throat
+
+ cough
+
+ tiredness
+
+ difficulty breathing.
+
+While coronavirus is of concern, it is important to remember that most people displaying these symptoms are likely suffering with a cold or other respiratory illness – not coronavirus.
+May 24, 2021 1:35:10 PM com.example.restservice.TestWebProjectApplication main
+INFO: Start In TestWebProjectApplication
+May 24, 2021 1:35:45 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = covid
+May 24, 2021 1:35:50 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 1 content = The symptoms of COVID-19 are similar to other colds and flus and include:
+
+ fever
+
+ sore throat
+
+ cough
+
+ tiredness
+
+ difficulty breathing.
+
+While coronavirus is of concern, it is important to remember that most people displaying these symptoms are likely suffering with a cold or other respiratory illness – not coronavirus.
+May 24, 2021 1:35:51 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 1
+May 24, 2021 1:35:51 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = The symptoms of COVID-19 are similar to other colds and flus and include:
+
+ fever
+
+ sore throat
+
+ cough
+
+ tiredness
+
+ difficulty breathing.
+
+While coronavirus is of concern, it is important to remember that most people displaying these symptoms are likely suffering with a cold or other respiratory illness – not coronavirus.
+May 24, 2021 1:36:07 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = what is covid
+May 24, 2021 1:36:09 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 2 content = Coronaviruses are a large family of viruses known to cause respiratory infections. These can range from the common cold to more serious diseases such as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). This new coronavirus originated in Hubei Province, China and the disease caused by the virus is named COVID-19.
+May 24, 2021 1:36:09 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 2
+May 24, 2021 1:36:09 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = Coronaviruses are a large family of viruses known to cause respiratory infections. These can range from the common cold to more serious diseases such as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). This new coronavirus originated in Hubei Province, China and the disease caused by the virus is named COVID-19.
+May 24, 2021 1:38:21 PM com.example.restservice.TestWebProjectApplication main
+INFO: Start In TestWebProjectApplication
+May 24, 2021 1:38:50 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = what is covid
+May 24, 2021 1:38:53 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 1 content = Coronaviruses are a large family of viruses known to cause respiratory infections. These can range from the common cold to more serious diseases such as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). This new coronavirus originated in Hubei Province, China and the disease caused by the virus is named COVID-19.
+May 24, 2021 1:38:53 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 1
+May 24, 2021 1:38:53 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = Coronaviruses are a large family of viruses known to cause respiratory infections. These can range from the common cold to more serious diseases such as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). This new coronavirus originated in Hubei Province, China and the disease caused by the virus is named COVID-19.
+May 24, 2021 1:39:19 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = how is it transmitted
+May 24, 2021 1:39:21 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 2 content = Great, thanks.
+May 24, 2021 1:39:21 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 2
+May 24, 2021 1:39:21 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = Great, thanks.
+May 24, 2021 1:39:35 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = how many people are infected
+May 24, 2021 1:39:36 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 3 content = I don't have family.
+May 24, 2021 1:39:36 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 3
+May 24, 2021 1:39:36 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = I don't have family.
+May 24, 2021 1:39:48 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = what are the symptoms
+May 24, 2021 1:39:49 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 4 content = The symptoms of COVID-19 are similar to other colds and flus and include:
+
+ fever
+
+ sore throat
+
+ cough
+
+ tiredness
+
+ difficulty breathing.
+
+While coronavirus is of concern, it is important to remember that most people displaying these symptoms are likely suffering with a cold or other respiratory illness – not coronavirus.
+May 24, 2021 1:39:49 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 4
+May 24, 2021 1:39:49 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = The symptoms of COVID-19 are similar to other colds and flus and include:
+
+ fever
+
+ sore throat
+
+ cough
+
+ tiredness
+
+ difficulty breathing.
+
+While coronavirus is of concern, it is important to remember that most people displaying these symptoms are likely suffering with a cold or other respiratory illness – not coronavirus.
+May 24, 2021 1:40:01 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = what should i do
+May 24, 2021 1:40:02 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 5 content = I wouldn’t know how to advise about this.
+May 24, 2021 1:40:02 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 5
+May 24, 2021 1:40:02 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = I wouldn’t know how to advise about this.
+May 24, 2021 1:40:16 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = how should I protect myself
+May 24, 2021 1:40:17 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 6 content = You do not need to wear a mask in your home. If you need to go out to seek medical attention, wear a surgical mask (if you have one) to protect others.
+
+You should stay in touch by phone and on-line with your family and friends. For more information, read our page on home isolation.
+May 24, 2021 1:40:17 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 6
+May 24, 2021 1:40:17 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = You do not need to wear a mask in your home. If you need to go out to seek medical attention, wear a surgical mask (if you have one) to protect others.
+
+You should stay in touch by phone and on-line with your family and friends. For more information, read our page on home isolation.
