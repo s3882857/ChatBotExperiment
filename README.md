@@ -22,7 +22,7 @@ for you once you have everything installed.
 has not been deployed fully.
 Receives POST requests through GET method.
 See project ChatbotTestService to test this.
-This uses maven and string. You will need to download string and maven to use.
+This uses maven and Spring. You will need to download Spring and maven to use.
 
 Eclipse project Name : ChatbotTestService
 PC Folder : ChatbotTestService
