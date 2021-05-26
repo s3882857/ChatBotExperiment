@@ -36,7 +36,7 @@ public class ChatBotController {
 		// AI response type = generateAnswer
 		String urlString = "https://covid19team14chatbot.azurewebsites.net/qnamaker/knowledgebases/ba2405ec-542a-4f2c-8511-72e54caa3a6b/generateAnswer";
 		String jsonInputString = "";
-		
+		String authorizationKey = "";
 		String formattedString = "";
 		URL url = null;
 		HttpURLConnection con = null;
@@ -50,7 +50,7 @@ public class ChatBotController {
 			con.setRequestMethod("POST");
 			con.setRequestProperty("Content-Type", "application/json; utf-8");
 			con.setRequestProperty("Accept", "application/json");
-			con.setRequestProperty("Authorization", "4970fb20-f3bb-47e7-93a6-6afb1922aff3");
+			con.setRequestProperty("Authorization", authorizationKey);
 			con.setDoOutput(true);
 			
 			jsonInputString = "{\"question\":\"" + question + "\"}";

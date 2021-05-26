@@ -34,6 +34,7 @@ public class ChatBot {
 		String userQuestion = "";
 		String jsonInputString = "";
 		String formattedString = "";
+		String authorizationKey = "";
 		String line = "";
 		URL url = null;
 		HttpURLConnection con = null;
@@ -50,7 +51,7 @@ public class ChatBot {
 				con.setRequestMethod("POST");
 				con.setRequestProperty("Content-Type", "application/json; utf-8");
 				con.setRequestProperty("Accept", "application/json");
-				con.setRequestProperty("Authorization", "4970fb20-f3bb-47e7-93a6-6afb1922aff3");
+				con.setRequestProperty("Authorization", authorizationKey);
 				con.setDoOutput(true);
 				
 				System.out.println("Ask me a question");

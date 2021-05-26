@@ -184,3 +184,65 @@ May 24, 2021 1:40:17 PM com.example.restservice.ChatBot getContent
 INFO: In Greeting getContent() content = You do not need to wear a mask in your home. If you need to go out to seek medical attention, wear a surgical mask (if you have one) to protect others.
 
 You should stay in touch by phone and on-line with your family and friends. For more information, read our page on home isolation.
+May 25, 2021 1:18:22 PM com.example.restservice.ChatBotCovid19Service main
+INFO: Start In TestWebProjectApplication
+May 25, 2021 1:19:04 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = what is covid
+May 25, 2021 1:19:12 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 1 content = Coronaviruses are a large family of viruses known to cause respiratory infections. These can range from the common cold to more serious diseases such as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). This new coronavirus originated in Hubei Province, China and the disease caused by the virus is named COVID-19.
+May 25, 2021 1:19:12 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 1
+May 25, 2021 1:19:12 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = Coronaviruses are a large family of viruses known to cause respiratory infections. These can range from the common cold to more serious diseases such as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). This new coronavirus originated in Hubei Province, China and the disease caused by the virus is named COVID-19.
+May 25, 2021 1:19:25 PM com.example.restservice.ChatBotController AskQuestion
+INFO: In GreetingController name = who is most at risk
+May 25, 2021 1:19:28 PM com.example.restservice.ChatBot <init>
+INFO: In Greeting id = 2 content = In Australia, the people most at risk of getting the virus are:
+
+ travellers who have recently been overseas
+
+ those who have been in close contact with someone who has been diagnosed with COVID-19
+
+ people in correctional and detention facilities
+
+ people in group residential settings
+
+People who are, or are more likely to be, at higher risk of serious illness if they get the virus are:
+
+ Aboriginal and Torres Strait Islander people 50 years and older with one or more chronic medical conditions
+
+ People 65 years and older with chronic medical conditions. See this page on the Department of Health website for more information
+
+ People 70 years and older
+
+ People with compromised immune systems (see this page).
+
+At this stage the risk to children and babies, and the role children play in the transmission of COVID-19, is not clear. However, there has so far been a low rate of confirmed COVID-19 cases among children, relative to the broader population.
+
+There is limited evidence at this time regarding the risk in pregnant women.
+May 25, 2021 1:19:28 PM com.example.restservice.ChatBot getId
+INFO: In Greeting getId() id = 2
+May 25, 2021 1:19:28 PM com.example.restservice.ChatBot getContent
+INFO: In Greeting getContent() content = In Australia, the people most at risk of getting the virus are:
+
+ travellers who have recently been overseas
+
+ those who have been in close contact with someone who has been diagnosed with COVID-19
+
+ people in correctional and detention facilities
+
+ people in group residential settings
+
+People who are, or are more likely to be, at higher risk of serious illness if they get the virus are:
+
+ Aboriginal and Torres Strait Islander people 50 years and older with one or more chronic medical conditions
+
+ People 65 years and older with chronic medical conditions. See this page on the Department of Health website for more information
+
+ People 70 years and older
+
+ People with compromised immune systems (see this page).
+
+At this stage the risk to children and babies, and the role children play in the transmission of COVID-19, is not clear. However, there has so far been a low rate of confirmed COVID-19 cases among children, relative to the broader population.
+
+There is limited evidence at this time regarding the risk in pregnant women.
